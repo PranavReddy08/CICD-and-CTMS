@@ -1,0 +1,6 @@
+SalesID,CustomerID,CustomerType,OrderValue,OrderDate,Currency,Status
+1,CUST001,Regular,8500,2025-01-05,INR,Pending
+2,CUST002,VIP,15000,2025-01-10,INR,Approved
+3,CUST003,New,4200,2025-01-12,USD,Rejected
+4,CUST004,Regular,22000,2025-01-15,EUR,Pending
+5,CUST005,VIP,9800,2025-01-18,INR,Approved
